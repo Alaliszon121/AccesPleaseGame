@@ -12,7 +12,6 @@ Głównym celem aplikacji jest praktyczne przedstawienie zagadnień związanych 
   * **Zarządzanie strukturą OU:** Przypisywanie pracowników do odpowiednich Jednostek Organizacyjnych.
   * **Konfiguracja Security Groups:** Nadawanie precyzyjnych uprawnień.
   * **System Audytu:** Każda decyzja jest oceniana pod kątem zgodności z "Księgą Zasad". Na koniec dnia gracz otrzymuje raport z punktacją.
-  * **Mechanika "Unhinged":** Humorystyczne dialogi i absurdalne sytuacje biurowe, które symulują presję ze strony użytkowników i zarządu.
 
 ## Poruszane zagadnienia IT
 
