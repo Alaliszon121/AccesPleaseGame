@@ -23,7 +23,7 @@ Projekt implementuje i promuje następujące koncepcje:
   * **Social Engineering:** Rozpoznawanie prób manipulacji i wywierania presji.
   * **Shadow IT:** Identyfikacja zagrożeń płynących z nieautoryzowanego oprogramowania i sprzętu.
 
-## 🛠 Technologie
+## Technologie
 
   * **Silnik:** Unity
   * **Język:** C\#
