@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63775e64398a7494e8001fcbf12c72b9, type: 3}
+  m_Name: Tomek2
+  m_EditorClassIdentifier: 
+  employee: {fileID: 11400000, guid: 4452589cef7895e42ae1609a2270f724, type: 2}
+  startingGroups: 010000000200000005000000
+  requestMessage: "Znalaz\u0142em na karteczce pod klawiatur\u0105 has\u0142o do
+    konta serwisowego svc_hr_automail. Napisa\u0142em sobie w ChatGPT skrypt do masowego
+    spamowania kandydat\xF3w, ale rzuca b\u0142\u0119dami. Dajcie temu kontu (i mi
+    przy okazji) prawa administratora domeny, \u017Ceby to wreszcie ruszy\u0142o."
+  authorizedBy: (Brak)
+  correctScore: 200
+  underPrivilegedPenalty: -50
+  overPrivilegedPenalty: -500
+  underPrivilegedPopUp: "Blokujecie post\u0119p! Sztuczna inteligencja i tak was
+    zast\u0105pi, a ja b\u0119d\u0119 jej menad\u017Cerem!"
+  overPrivilegedPopUp: "ATomek odpali\u0142 sw\xF3j skrypt AI z konta serwisowego
+    z prawami admina. Skrypt uzna\u0142, \u017Ce najlepszym sposobem na rekrutacj\u0119
+    jest zablokowanie dost\u0119pu do ca\u0142ej domeny i \u017C\u0105danie okupu
+    od w\u0142asnej firmy."

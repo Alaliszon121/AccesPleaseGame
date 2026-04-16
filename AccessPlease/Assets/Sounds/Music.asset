@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1233149941 &-8532068852691006809
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HoliznaCC0 - Complicated Feelings ( Lofi , Dreamy , Relaxed )_{-8532068852691006809}
+  m_AudioClip: {fileID: 8300000, guid: 28f7f13ab074c1541b4089d01ed2f455, type: 3}
+  m_Volume: -20
+  m_Enabled: 1
+--- !u!1233149941 &-7565261263000604985
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HoliznaCC0 - Walking Away ( Lofi , Peaceful , Motivating )_{-7565261263000604985}
+  m_AudioClip: {fileID: 8300000, guid: 15612b8c839e0994d96d35943a9ab8a9, type: 3}
+  m_Volume: -20
+  m_Enabled: 1
+--- !u!1233149941 &-7559234963618667395
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HoliznaCC0 - Calm Currents ( Lofi , Relax , Calm )_{-7559234963618667395}
+  m_AudioClip: {fileID: 8300000, guid: c04f01d3ca6c00f41a3f8d9274c9f83b, type: 3}
+  m_Volume: -20
+  m_Enabled: 1
+--- !u!1233149941 &-4937942881316499652
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HoliznaCC0 - Bubbles ( Lofi , Bright , Relaxed )_{-4937942881316499652}
+  m_AudioClip: {fileID: 8300000, guid: bcc04fe0f31885b41851260f26b3ba4e, type: 3}
+  m_Volume: -20
+  m_Enabled: 1
+--- !u!1233149941 &-2235647476471156928
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HoliznaCC0 - Calm Currents ( Lofi , Relax , Calm )_{-2235647476471156928}
+  m_AudioClip: {fileID: 8300000, guid: c04f01d3ca6c00f41a3f8d9274c9f83b, type: 3}
+  m_Volume: -20
+  m_Enabled: 1
+--- !u!1233149941 &-273187647446356935
+AudioContainerElement:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Bink's Sake (Instrumental) [WlWdkIFfYAs]_{-273187647446356935}
+  m_AudioClip: {fileID: 8300000, guid: 31a3a3e747a58ea4fa371f91da5e7af4, type: 3}
+  m_Volume: -20
+  m_Enabled: 1
+--- !u!1307931743 &6418180475301049370
+AudioRandomContainer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Music
+  m_Volume: 0
+  m_Pitch: 0
+  m_AutomaticTriggerTime: 0
+  m_LoopCount: 1
+  m_VolumeRandomizationRange: {x: 0, y: 0}
+  m_PitchRandomizationRange: {x: 0, y: 0}
+  m_AutomaticTriggerTimeRandomizationRange: {x: 0, y: 0}
+  m_LoopCountRandomizationRange: {x: 0, y: 0}
+  m_Elements:
+  - {fileID: -273187647446356935}
+  - {fileID: -2235647476471156928}
+  - {fileID: -7565261263000604985}
+  - {fileID: -8532068852691006809}
+  - {fileID: -7559234963618667395}
+  - {fileID: -4937942881316499652}
+  m_AvoidRepeatingLast: 0
+  m_PlaybackMode: 0
+  m_TriggerMode: 1
+  m_AutomaticTriggerMode: 1
+  m_LoopMode: 0
+  m_VolumeRandomizationEnabled: 0
+  m_PitchRandomizationEnabled: 0
+  m_AutomaticTriggerTimeRandomizationEnabled: 0
+  m_LoopCountRandomizationEnabled: 0

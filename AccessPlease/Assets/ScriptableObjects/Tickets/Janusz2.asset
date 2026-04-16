@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63775e64398a7494e8001fcbf12c72b9, type: 3}
+  m_Name: Janusz2
+  m_EditorClassIdentifier: 
+  employee: {fileID: 11400000, guid: e2a46438cb9b1e4478700a3c2fa5d597, type: 2}
+  startingGroups: 010000000700000009000000
+  requestMessage: "Przynios\u0142em z domu w\u0142asny router TP-Link od syna, bo
+    na hali nie ma zasi\u0119gu WiFi, a mecze Euro tn\u0105. Daj mi uprawnienia administratora
+    lokalnego (SG_IT_Admin), \u017Cebym m\xF3g\u0142 si\u0119 zalogowa\u0107 na switcha
+    i go wpi\u0105\u0107. Poza tym, co\u015B ostatnio mi szwankuje konto, sprawd\u017A
+    mi uprawnienia."
+  authorizedBy: (Brak)
+  correctScore: 150
+  underPrivilegedPenalty: -50
+  overPrivilegedPenalty: -400
+  underPrivilegedPopUp: "Banda korpo-biurokrat\xF3w z klimatyzowanych biur! Sam se
+    te kable kombinerkami zmostkuj\u0119!"
+  overPrivilegedPopUp: "ARouter Janusza mia\u0142 nieaktualizowane oprogramowanie
+    z 2011 roku. Ca\u0142a sie\u0107 produkcyjna zosta\u0142a zainfekowana trojanem
+    w 12 sekund."

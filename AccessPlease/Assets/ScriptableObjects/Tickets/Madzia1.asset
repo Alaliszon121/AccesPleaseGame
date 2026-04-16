@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63775e64398a7494e8001fcbf12c72b9, type: 3}
+  m_Name: Madzia1
+  m_EditorClassIdentifier: 
+  employee: {fileID: 11400000, guid: 1ec1600b74c57f44bbe2cb0db59f067e, type: 2}
+  startingGroups: 010000000200000007000000
+  requestMessage: "Pan Prezes prosi o nadanie mi praw do edycji bud\u017Cetu ca\u0142ej
+    firmy (SG_Finance_Write). Sam nie umie, a kaza\u0142 mi '\u0142adnie pokolorowa\u0107
+    tabelki na \u017C\xF3\u0142to'.\nPoza tym, przeka\u017C tym z produkcji, \u017Ceby
+    nazywali swoje pliki bardziej przyzwoicie."
+  authorizedBy: "Andrzej Zieli\u0144ski"
+  correctScore: 150
+  underPrivilegedPenalty: -50
+  overPrivilegedPenalty: -400
+  underPrivilegedPopUp: "Prezes rzuca we mnie zszywaczami, bo tabelki w Excelu nadal
+    s\u0105 szare! Dajcie mi ten dost\u0119p, prosz\u0119!"
+  overPrivilegedPopUp: "AMagda pokolorowa\u0142a tabelki, zaznaczy\u0142a wszystko
+    i wcisn\u0119\u0142a 'Delete'. Rezerwa finansowa firmy w\u0142a\u015Bnie przesta\u0142a
+    istnie\u0107."

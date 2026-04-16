@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63775e64398a7494e8001fcbf12c72b9, type: 3}
+  m_Name: Anna1
+  m_EditorClassIdentifier: 
+  employee: {fileID: 11400000, guid: d44f40d092e508841ad574003dd499aa, type: 2}
+  startingGroups: 010000000200000003000000
+  requestMessage: "IT, skarb\xF3wka dzwoni\u0142a. Pr\xF3buj\u0119 uzupe\u0142ni\u0107
+    i zapisa\u0107 zmiany w pliku w folderze Audyt2026_PANIKA, ale wyskakuje mi b\u0142\u0105d
+    \"Brak praw do edycji\". Potrzebuj\u0119 uprawnie\u0144 SG_Finance_Write NA WCZORAJ.
+    Inaczej wszyscy idziemy siedzie\u0107."
+  authorizedBy: "Andrzej Zieli\u0144ski (CEO)"
+  correctScore: 100
+  underPrivilegedPenalty: -100
+  overPrivilegedPenalty: -300
+  underPrivilegedPopUp: "Zablokowali\u015Bcie mnie?! Dzwoni\u0119 po mojego prawnika.
+    Pakujcie kartony, firma idzie na dno!"
+  overPrivilegedPopUp: "O, widz\u0119 przycisk 'Usu\u0144 ca\u0142\u0105 baz\u0119
+    podatkow\u0105'. Bardzo kusi, \u017Ceby klikn\u0105\u0107 po tej trzeciej kawie..."

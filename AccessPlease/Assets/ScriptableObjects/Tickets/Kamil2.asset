@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63775e64398a7494e8001fcbf12c72b9, type: 3}
+  m_Name: Kamil2
+  m_EditorClassIdentifier: 
+  employee: {fileID: 11400000, guid: c7233d85f3120f8428bbeb8164d3a637, type: 2}
+  startingGroups: 010000000b0000000c00000009000000
+  requestMessage: "Hej. Kiedy\u015B by\u0142em na supporcie w IT, ale 3 lata temu
+    przenie\u015Bli mnie na maszyny. Poprzedni admin, Gruby Maciek, zostawi\u0142
+    mi wszystkie dost\u0119py, bo razem grali\u015Bmy w WoWa w pracy, ale te ci\u0105g\u0142e
+    powiadomienia z serwer\xF3w zas\u0142aniaj\u0105 mi pasjansa!"
+  authorizedBy: Janusz Kaczmarek
+  correctScore: 200
+  underPrivilegedPenalty: -100
+  overPrivilegedPenalty: -400
+  underPrivilegedPopUp: "Zabra\u0142e\u015B mi wszystko? Ekran jest czarny. Nawet
+    pasjans znikn\u0105\u0142. Dzwoni\u0119 do inspekcji pracy."
+  overPrivilegedPopUp: "AZostawili\u015Bcie Kamilowi uprawnienia admina. Znudzony
+    na nocnej zmianie wszed\u0142 na serwer g\u0142\xF3wny i zainstalowa\u0142 prywatny
+    serwer World of Warcraft. Zu\u017Cycie procesor\xF3w 100%."
